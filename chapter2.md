@@ -119,7 +119,7 @@ __Xcode is a large program and takes a while to download so don't worry if it se
 
 ### 8. Bonus material and extras
 
-### Colored terminal
+#### Colored terminal
 
 Your default terminal window is ugly. You can fix that by choosing a new theme in the Terminal applications prefrence pane or download one from the Internet. You might also want to have a multi-colored terminal like Jim and I have. To enable colored output you'll need to delete one character in your `.bashrc` file. If you want to prettify your terminal just get our attention and we'll be happy to help.
 

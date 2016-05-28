@@ -142,28 +142,3 @@ This tool will come in handy later on in the course when we start using database
 #### Sequel Pro
 
 [Sequel Pro is a GUI application](http://sequelpro.com) that lets you explore a variety of remote or local databases visually. It works on most relational database egines (except SQLite) and is especially well suited to browsing local and remote MySQL repositories.
-
-echo "\n"
-echo ""
-echo " You should now have all the required software for   "
-echo " this course. If you have not installed Xcode yet do "
-echo " so by searching for it on the App Store or head to  "
-echo " https://developer.apple.com/xcode/download/ to      "
-echo " download it manually.                               "
-echo "-----------------------------------------------------"
-echo " You may also want to download some of these great   "
-echo " (but optional) helpful tools:                       "
-echo "  * DB Browser for SQLite: http://sqlitebrowser.org  "
-echo "  * Postman: https://www.getpostman.com              "
-echo "  * Robomongo (MongoDB GUI): https://robomongo.org   "
-echo ""
-else
-echo "Quitting InstallFest. Run me again when you're ready to install the required tools."
-fi
-
-
-
-BONUS STUFF FOR LATER?
-----------------------
-1. Colorize terminal
-2. Install better terminal themes

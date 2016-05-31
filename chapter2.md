@@ -11,7 +11,7 @@ Why do we recommend Sublime Text? Sublime Text has objectively better performanc
 Running these commands in a new terminal window will install all the required software you need to be successful in WDI.                        
 ### 0. Open a terminal window
 
-Open the terminal application and ensure you're in your "Homme" directory by running this command: `cd`
+Open the terminal application and ensure you're in your "Home" directory by running this command: `cd`
 
 
 ### 1. Install Homebrew

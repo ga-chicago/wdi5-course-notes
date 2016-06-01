@@ -2,6 +2,7 @@
 
 * [Orientation](chapter1.md)
 * [Installfest](chapter2.md)
+* [Submitting Homework](homework.md)
 * [Week 1: The Basics](01_basics/README.md)
   * [Intro to OS X](01_basics/intro_to_osx.md)
   * [Terminal Basics/Navigating the File System](01_basics/basic_terminal.md)

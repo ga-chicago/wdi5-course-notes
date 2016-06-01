@@ -54,6 +54,31 @@ In the above example the `-rf` flag tells `rm` to recursively remove the files a
 
 `rmdir` will remove folders but only if they're empty. If the folder contains files or other folders then you need to use the `rm -rf` command (the `rm` command with the `rf` flag).
 
+## echo and Redirection
+echo "This bookshelf flexes under the weight of the books it holds" > bookshelf.txt
+
+Using the closing angle bracket > in this way is called redirection. Every command that we run in the shell has an input, an output, an error output, and arguments/operands. We are saying: "Run echo with this string as an operand, and take the output and put it in a new file called bookshelf." Try running ls again, and cat our new file.
+
+Two angle brackets >> appends the string to the end of the file:
+
+## Piping
+These use the example we used earlier.
+Try cat books.txt(create it if you haven't), and cat books.txt | sort. The character | is called the pipe. We take the output from cat books.txt and send it through a pipe to sort. The output of cat books.txt becomes the input of sort. Now send the output of sort to a file:
+
+#Try This
+
+cat books.txt | sort
+
+#Try This
+
+cat books.txt | sort > sorted_books.txt
+
+#Try This
+
+cat books.txt | grep Mil
+
+See how we filtered out just the lines that contain Mil? Try grepping for something else.
+
 ## Try it yourself
 
 1. Create a folder named "zoo"

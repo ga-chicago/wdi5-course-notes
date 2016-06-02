@@ -9,4 +9,5 @@
   * [Creating and Moving Files on the Command Line](01_basics/create_move_files_in_terminal.md)
   * [TerminalLabAssignment](01_basics/commandLineLab.md)
   * [After Hours/Homework](01_basics/ah_star_wars_cli.md) 
-
+  * [Git Workflow](01_basics/git_workflow.md)
+  * [Git Workflow](01_basics/reintroduction_html_css.md)

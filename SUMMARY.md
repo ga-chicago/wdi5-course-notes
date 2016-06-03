@@ -10,5 +10,6 @@
   * [TerminalLabAssignment](01_basics/commandLineLab.md)
   * [After Hours/Homework](01_basics/ah_star_wars_cli.md) 
   * [Git Workflow](01_basics/git_workflow.md)
+  * [Editorconfig](01_basics/EditorConfig.md)
   * [Re-introduction to HTML and CSS](01_basics/reintroduction_html_css.md)
   * [Extras and Bonus material](01_basics/extras.md)

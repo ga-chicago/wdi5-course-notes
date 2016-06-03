@@ -110,4 +110,32 @@ alias editorconfig='cp ~/.editorconfig .'
 
 This alias basically says "copy the `.editorconfig" file from my home folder to the folder I'm currently in.
 
+## Apps to make your life easier
+
+As developers we spend the vast majority of our time in the terminal. It's rate to use a GUI application but sometimes they can be very helpful. Here's a list of some tools we use to manage our web applications.
+
+### Colored terminal
+
+*See above - We can set this up for you before class or during office hours. Even though you may have set up a pretty terminal theme, you might not be getting the color coding that the terminal supports and allows by default. Your instructors have a code snippet you can use to enable this if it doesn't work by default.
+
+Color coding helps you determine whether something is a file, is executable, and gives you an overall easier to read experience.
+
+
+### DB Browser for SQLite
+
+This tool will come in handy later on in the course when we start using databases. The [SQLite Browser](http://sqlitebrowser.org) allows you to open a database file and browse it visually instead of through the command line. 99% of your
+SQLite databases are easier to browser visually rather than using the command line tool.
+
+### Postman
+
+[Postman](https://www.getpostman.com) is a tool that lets you create HTTP requests and explore and test local or remote APIs. This will come in handy later on in the course. This is basically a GUI application for the built in `curl` command. Instead of running something like `curl -i -X POST "user-id=1&session_id=af4Hd8vU&is_logged_in=1" http://localhost:3000` you can use the Postman GUI app to send GET, POST, PUT, PATCH, and DELETE requests to a local or remote URL. It lets you set the data you would send to a website through a form but through an easy to use GUI. I recommend learning cURL but Postman is very helpful in the beginnig of your journey into MV web applications.
+
+### Robomongo
+
+[Robomongo is a GUI application](https://robomongo.org) that allows you to explore a MongoDB database visually, similar to the DB Browser for SQLite. You can use the MongoDB command line tool but sometimes it's easier to explore a database using a GUI program when you're running more advanced commands.
+
+### Sequel Pro
+
+[Sequel Pro is a GUI application](http://sequelpro.com) that lets you explore a variety of remote or local databases visually. It works on most relational database egines (except SQLite) and is especially well suited to browsing local and remote MySQL repositories. Again, MySQL is super easy to learn on its own but sometimes you wanto so quickly get a visual idea of what's happening inside a database. Youll likely use Sequel Pro about 30% of the time and the rest of the time you'll use the built-in `mysql` command line tool.
+
 

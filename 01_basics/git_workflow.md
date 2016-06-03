@@ -41,3 +41,9 @@ git push origin master
 ```
 
 The push command takes the remote's name and branch as arguments. So `origin master` means push the changes to the remote named `origin` and branch named `master`.
+
+
+## Creating a branch and putting yourself in it
+
+`git checkout -b branchname`
+example: `git checkout -b BobDylan`

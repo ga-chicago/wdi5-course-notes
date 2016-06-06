@@ -13,3 +13,5 @@
   * [Re-introduction to HTML and CSS](01_basics/reintroduction_html_css.md)
   * [Extras and Bonus material](01_basics/extras.md)
   * [Weekend Homework](01_basics/weekend_homework.md)
+* [Week 2: Front-end fundamentals](02_front_end/README.md)
+  * [Functions and Scope](02_front_end/functions.md)

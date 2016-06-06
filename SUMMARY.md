@@ -14,4 +14,8 @@
   * [Extras and Bonus material](01_basics/extras.md)
   * [Weekend Homework](01_basics/weekend_homework.md)
 * [Week 2: Front-end fundamentals](02_front_end/README.md)
+  * [variables](02_front_end/variables.md)
+  * [data Types](02_front_end/dataTypes.md)
+  * [control flow](02_front_end/controlFlow.md)
+  * [concatination](02_front_end/concatination.md)
   * [Functions and Scope](02_front_end/functions.md)

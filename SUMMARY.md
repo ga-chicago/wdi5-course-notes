@@ -20,3 +20,5 @@
   * [Concatination](02_front_end/concatination.md)
   * [Functions and Scope](02_front_end/functions.md)
   * [Advanced Arrays and Loops](02_front_end/loops.md)
+  * [Canvas](02_front_end/canvas.md)
+  * [Tuesday Homework](02_front_end/homeworkLoopIntro.md)

@@ -19,3 +19,5 @@
   * [control flow](02_front_end/controlFlow.md)
   * [concatination](02_front_end/concatination.md)
   * [Functions and Scope](02_front_end/functions.md)
+  * [Canvas](02_front_end/canvas.md)
+  * [homeworkLoopIntro](02_front_end/homeworkLoopIntro.md)

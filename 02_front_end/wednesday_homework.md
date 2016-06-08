@@ -1,10 +1,12 @@
-# Wednesday Night After Hours, Homework
+# Wednesday Exercises and Homework
 
-> Tonight's homework will reinforce the array concepts combined with how to access the properties of an object two different ways
+> Today and tonight's exercises and homework will reinforce the array concepts combined with how to access the properties of an object two different ways
 
-## Instructions
+## In-Class Loop & Object Exercise
 
-Tonight your job is to write a program that loops over an array of objects. Using the example array below, do the following:
+### Instructions
+
+Your job is to write a program that loops over an array of objects. Using the example array below, do the following:
 
 1. Iterate over each item in the array
 2. Filter out all objects where the `Language` property does not equal to `en` (stands for English)
@@ -13,8 +15,7 @@ Tonight your job is to write a program that loops over an array of objects. Usin
 
 __Hint:__ Remember, this is an array of objects. This means you'll need to use both array methods and object concepts to complete this. Also remember that some methods return new copies of arrays instead of changing their values in place.
 
-
-### Starter code:
+#### Starter code:
 
 This is the array of objects you'll need to work with:
 
@@ -7223,3 +7224,21 @@ var tagMap = [
 ]
 ```
 Don't be intimidated by the size of this array. Just use your knowledge of loops and how to access object properties using either dot syntax or bracket syntax.
+
+<hr />
+
+## Homework
+
+This is tonight's official homework. Be sure to submit it to the homework repository. The exercise above is only an in-class exercise. Do not submit the exercise as homework, only submit this.
+
+### Instructions
+
+Create the following basic website layouts. See [this article for more information about each layout](https://designshack.net/articles/layouts/10-rock-solid-website-layout-examples/).
+
+Using what you know about CSS grid systems, create the fllowing layouts in separate HTML pages using your grid styling method of choice: Traditional Float Based Grids or Flex box grids:
+
+1. ![Layout 1][images/1.jpg]
+2. ![Layout 2][images/2.jpg]
+3. ![Layout 3][images/3.jpg]
+4. ![Layout 4][images/4.jpg]
+5. ![Layout 5][images/5.jpg]

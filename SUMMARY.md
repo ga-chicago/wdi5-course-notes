@@ -23,4 +23,4 @@
   * [Canvas](02_front_end/canvas.md)
   * [Tuesday Homework](02_front_end/homeworkLoopIntro.md)
   * [Wednesday Lesson Notes Coming Here Soon/Eight after it's talk](#)
-  * [Wednesday Homework](02_front_end/wednesday_homework.md)
+  * [Wednesday Exercises & Homework](02_front_end/wednesday_homework.md)

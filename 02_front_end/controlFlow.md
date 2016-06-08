@@ -1,4 +1,4 @@
-## Logical operators and control flow
+# Logical operators and control flow
 
 JavaScript supports a compact set of statements, specifically control flow statements, that you can use to incorporate a great deal of interactivity in your application.
 

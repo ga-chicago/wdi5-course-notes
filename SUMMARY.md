@@ -21,3 +21,8 @@
   * [Functions and Scope](02_front_end/functions.md)
   * [Canvas](02_front_end/canvas.md)
   * [homeworkLoopIntro](02_front_end/homeworkLoopIntro.md)
+  * [event Listeners](02_front_end/eventListener.md)
+  * [Object Methods](02_front_end/objectMethods.md)
+  * [Object Methods and Prop](02_front_end/objectMethodandProp.md)
+  * [dom Selector](02_front_end/domSelectors.md)
+

@@ -28,5 +28,5 @@
   * [event Listeners](02_front_end/eventListener.md)
   * [Object Methods](02_front_end/objectMethods.md)
   * [Object Methods and Prop](02_front_end/ObjectProps.md)
-  * [dom Selector](02_front_end/domSelectors.md)
+  * [dom Selectors](02_front_end/selector.md)
 

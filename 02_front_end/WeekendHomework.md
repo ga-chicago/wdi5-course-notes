@@ -10,4 +10,4 @@ are in the readme, and you will write your javascript in the js file.
 Move these files to your homework repo, and submit a pull request when you are
 finished.
 
-<a href="fellowship_vanilla.zip" download="fellowship_vanilla.zip">fellowShip</a>
+<a href="https://github.com/ga-chicago/fellowship/archive/master.zip">Homework starter code</a>

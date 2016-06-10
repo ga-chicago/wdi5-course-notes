@@ -10,4 +10,8 @@ are in the readme, and you will write your javascript in the js file.
 Move these files to your homework repo, and submit a pull request when you are
 finished.
 
-<a href="https://github.com/ga-chicago/fellowship/archive/master.zip">Homework starter code</a>
+
+## ATTENTION EVERYONE WE LINKED YOU THE WRONG VERSION 
+PLEASE CHECK SLACK FOR THE VANILLA VERSION, ITS THE SAME THING, JUST ONE VERSION IS 
+FOR VANILLA
+

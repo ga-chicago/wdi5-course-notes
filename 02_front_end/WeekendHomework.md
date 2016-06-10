@@ -11,4 +11,4 @@ Move these files to your homework repo, and submit a pull request when you are
 finished.
 
 
-[fellowship_vanilla](02_front_end/fellowship_vanilla.zip)
+[fellowship_vanilla](fellowship_vanilla.zip)

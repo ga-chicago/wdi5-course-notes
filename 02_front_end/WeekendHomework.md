@@ -10,5 +10,5 @@ are in the readme, and you will write your javascript in the js file.
 Move these files to your homework repo, and submit a pull request when you are
 finished.
 
-
+<a href="fellowship_vanilla.zip">fellowShip</a>
 [fellowship_vanilla](fellowship_vanilla.zip)

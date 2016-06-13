@@ -30,4 +30,5 @@
   * [Object Methods and Prop](02_front_end/ObjectProps.md)
   * [dom Selectors](02_front_end/selector.md)
   * [WeekendHomework](02_front_end/WeekendHomework.md)
+  * [FellowShipAnswers](02_front_end/FellowShipAnswers.md)
 

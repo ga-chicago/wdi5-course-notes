@@ -31,4 +31,6 @@
   * [dom Selectors](02_front_end/selector.md)
   * [WeekendHomework](02_front_end/WeekendHomework.md)
 [Week 3: Intermediate Front End](03_intermediate_front_end/README.md)
-  [Monday Homework](03_intermediate_front_end/d1-ah.md)
+  * [FellowShipAnswers](02_front_end/FellowShipAnswers.md)
+  * [Monday Homework](03_intermediate_front_end/d1-ah.md)
+

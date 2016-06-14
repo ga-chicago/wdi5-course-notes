@@ -1,4 +1,5 @@
-```console.log("loaded bro");
+```
+console.log("loaded bro");
 
 // Dramatis Personae
 var hobbits = [
@@ -181,4 +182,5 @@ var thereAndBackAgain = function () {
   theShire.appendChild(hobbitUL);
   // Move all the hobbits back to the shire
 }
-thereAndBackAgain();```
+thereAndBackAgain();
+```

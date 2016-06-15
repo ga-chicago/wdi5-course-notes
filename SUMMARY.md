@@ -35,5 +35,7 @@
   * [jQuery](03_intermediate_front_end/jQuery.md)
   * [LESS](03_intermediate_front_end/less.md)
   * [Monday Homework](03_intermediate_front_end/d1-ah.md)
+  * [ajax](03_intermediate_front_end/ajax.md)
+  * [ajax inDepth](03_intermediate_front_end/ajax_inDepth.md)
   * [Wednesday Homework](03_intermediate_front_end/wednesday-homework.md)
 

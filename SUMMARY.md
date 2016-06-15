@@ -33,5 +33,7 @@
 * [Week 3: Intermediate Front End](03_intermediate_front_end/README.md)
   * [FellowShipAnswers](02_front_end/FellowShipAnswers.md)
   * [jQuery](03_intermediate_front_end/jQuery.md)
+  * [LESS](03_intermediate_front_end/less.md)
   * [Monday Homework](03_intermediate_front_end/d1-ah.md)
+  * [Wednesday Homework](03_intermediate_front_end/wednesday-homework.md)
 

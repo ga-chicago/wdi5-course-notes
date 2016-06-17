@@ -38,5 +38,5 @@
   * [AJAX](03_intermediate_front_end/ajax.md)
   * [AJAX in Depth](03_intermediate_front_end/ajax_inDepth.md)
   * [Wednesday Homework](03_intermediate_front_end/wednesday-homework.md)
-  * [First Project: Game](03_intermediate_font_end/project.md)
-  * [Weekend Homework](03_intermediate_font_end/weekend_homework.md)
+  * [First Project: Game](03_intermediate_front_end/project.md)
+  * [Weekend Homework](03_intermediate_front_end/weekend_homework.md)

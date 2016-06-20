@@ -43,5 +43,10 @@
   *[HTTP Request Response](03_intermediate_front_end/http_request_response.jpeg)
   *[HTTP Req/Res](03_intermediate_front_end/http_request_response.png)
   * [First Project: Game](03_intermediate_front_end/project.md)
+  * [Getting started on your game](03_intermediate_front_end/getting_started.md)
+  * [deliverables](03_intermediate_front_end/deliverables.md)
+  * [ideas](03_intermediate_front_end/ideas.md)
+  * [scoring of project](03_intermediate_front_end/score.md)
   * [Weekend Homework](03_intermediate_front_end/weekend_homework.md)
+
 

@@ -38,4 +38,8 @@
   * [ajax](03_intermediate_front_end/ajax.md)
   * [ajax inDepth](03_intermediate_front_end/ajax_inDepth.md)
   * [Wednesday Homework](03_intermediate_front_end/wednesday-homework.md)
+* [Week 4: Project Week HTTP]()
+  *[HTTP Api](03_intermediate_front_end/http_api.png)
+  *[HTTP Request Response](03_intermediate_front_end/http_request_response.jpeg)
+  *[HTTP Req/Res](03_intermediate_front_end/http_request_response.png)
 

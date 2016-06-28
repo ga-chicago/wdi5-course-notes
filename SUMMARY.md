@@ -50,3 +50,16 @@
   *[Weekend Homework](03_intermediate_front_end/weekend_homework.md)
 * [Week 5: Node](04_Node/intro_to_node.md)
   * [car excercise](04_Node/cars.md)
+  * [Modules](04_Node/modules.md)
+  * [Node Server](04_Node/nodeServers.md)
+  * [Tuesday 6/28 hw](04_Node/homeworkMovieModule.md)
+
+
+
+
+
+
+
+
+
+

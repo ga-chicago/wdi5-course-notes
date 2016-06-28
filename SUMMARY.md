@@ -38,16 +38,12 @@
   * [AJAX](03_intermediate_front_end/ajax.md)
   * [AJAX in Depth](03_intermediate_front_end/ajax_inDepth.md)
   * [Wednesday Homework](03_intermediate_front_end/wednesday-homework.md)
-* [Week 4: Project Week HTTP](03_intermediate_front_end/project.md)
-  * [HTTP Api](03_intermediate_front_end/http_api.png)
-  * [HTTP Request Response](03_intermediate_front_end/http_request_response.jpeg)
-  * [HTTP Req/Res](03_intermediate_front_end/http_request_response.png)
-  * [First Project: Game](03_intermediate_front_end/project.md)
+* [Week 4: Project Week Game](03_intermediate_front_end/project.md)
   * [Getting started on your game](03_intermediate_front_end/getting_started.md)
   * [deliverables](03_intermediate_front_end/deliverables.md)
   * [ideas](03_intermediate_front_end/ideas.md)
   * [scoring of project](03_intermediate_front_end/score.md)
-  *[Weekend Homework](03_intermediate_front_end/weekend_homework.md)
+  * [Weekend Homework](03_intermediate_front_end/weekend_homework.md)
 * [Week 5: Node](04_Node/intro_to_node.md)
   * [car excercise](04_Node/cars.md)
   * [Modules](04_Node/modules.md)
@@ -63,3 +59,6 @@
 
 
 
+=======
+  * [Car Excercise](04_Node/cars.md)
+>>>>>>> f234607828527417df806402bcafb8c56d0bfe51

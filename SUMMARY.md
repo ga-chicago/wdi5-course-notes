@@ -48,5 +48,5 @@
   * [ideas](03_intermediate_front_end/ideas.md)
   * [scoring of project](03_intermediate_front_end/score.md)
   *[Weekend Homework](03_intermediate_front_end/weekend_homework.md)
-
-
+* [Week 5: Node](04_Node/intro_to_node.md)
+  *[car excercise](04_Node/cars.md)

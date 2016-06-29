@@ -66,3 +66,7 @@ A set of gulp tasks - one Gulp task that runs one or more additional Gulp tasks 
 ## Conclusion
 
 Now that you know how to set up a Gulp workflow it's time to learn how to use Gulp's API and plugins to write some useful tasks and set up one or more workflows.
+
+### Resources
+
+We created an example Gulp boilerplate that is set up to run an Express app and run certain jobs on it's code. [You can clone the example project from here](https://github.com/ga-chicago/gulp-boilerplate). Be responsible. Don't copy and paste code you don't understand. You can use some parts as a reference but write out the important parts from scratch.

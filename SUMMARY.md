@@ -45,20 +45,9 @@
   * [scoring of project](03_intermediate_front_end/score.md)
   * [Weekend Homework](03_intermediate_front_end/weekend_homework.md)
 * [Week 5: Node](04_Node/intro_to_node.md)
-  * [car excercise](04_Node/cars.md)
+  * [Car Excercise](04_Node/cars.md)
   * [Modules](04_Node/modules.md)
   * [Node Server](04_Node/nodeServers.md)
   * [Tuesday 6/28 hw](04_Node/homeworkMovieModule.md)
-
-
-
-
-
-
-
-
-
-
-=======
-  * [Car Excercise](04_Node/cars.md)
->>>>>>> f234607828527417df806402bcafb8c56d0bfe51
+  * [Gulp from Scratch](05_node_week/gulp_from_scratch.md)
+  * [Gulp `src`, `dest`, and the Gulp API](05_node_week/gulp_api.md)

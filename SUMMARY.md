@@ -51,3 +51,4 @@
   * [Tuesday 6/28 hw](04_Node/homeworkMovieModule.md)
   * [Gulp from Scratch](05_node_week/gulp_from_scratch.md)
   * [Gulp `src`, `dest`, and the Gulp API](05_node_week/gulp_api.md)
+  * [Wednesday Hw](05_node_week/gulp_homework.md)

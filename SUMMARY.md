@@ -52,4 +52,5 @@
   * [Gulp from Scratch](05_node_week/gulp_from_scratch.md)
   * [Gulp `src`, `dest`, and the Gulp API](05_node_week/gulp_api.md)
   * [Wednesday Hw](05_node_week/gulp_homework.md)
+  * [Express from Scratch](05_node_week/express.md)
   * [Friday Hw](05_node_week/friday_homework.md)

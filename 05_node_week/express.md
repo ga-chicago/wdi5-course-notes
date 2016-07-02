@@ -134,6 +134,7 @@ gulp.task('example', function() {
   console.log('The example task has run!');
 });
 
+
 // Watch task - runs other tasks when files change
 gulp.task('watch', function() {
   gulp.watch(['./src/public/less/**/*/.less'], ['less']);
@@ -158,7 +159,34 @@ Gulp has a handful of API methods that'll help you transform files. These are:
 
 ## Set up Express
 
-Now that you've set up all the Gulp tasks you *know for sure* you're going to be using, it's time to start coding your Express app.
+Now that you've set up all the Gulp tasks you *know for sure* you're going to be using, it's time to start coding your Express app. 
+
+The first step in coding an Express app is installing the depndencies you *know you need* to run an Express app. Express comes with a great API on its own that allows you to set up routes paired with methods. Next, install the required packages. You'll want:
+
+- `express`  - The web framework
+- `express-handlebars`  - A library that sllows use to use Handkeba                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

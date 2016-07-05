@@ -6,7 +6,8 @@
 
 3.  One of your get routes render at least 5 properties of each of the following objects using handlebars. 
 
-`
+    
+~~~~
 [
   {
     "_id": "577c0895838f355817cbb34e",
@@ -249,4 +250,5 @@
     "longitude": 87.918033
   }
 ]
-`
+    
+~~~~

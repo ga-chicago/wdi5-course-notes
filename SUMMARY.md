@@ -53,4 +53,6 @@
   * [Gulp `src`, `dest`, and the Gulp API](05_node_week/gulp_api.md)
   * [Wednesday Hw](05_node_week/gulp_homework.md)
   * [Express from Scratch](05_node_week/express.md)
+  * [Event Loop](05_node_week/NodeEventLoop.md)
   * [Friday Hw](05_node_week/friday_homework.md)
+* [Week 6: Express](06_Express_Models/expressRouting.md)

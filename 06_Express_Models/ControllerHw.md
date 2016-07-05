@@ -5,8 +5,9 @@
 2.  Each controller should contain at least two GET routes and one post route;
 
 3.  One of your get routes render at least 5 properties of each of the following objects using handlebars. 
-=
-`[
+
+`
+[
   {
     "_id": "577c0895838f355817cbb34e",
     "index": 0,
@@ -247,4 +248,5 @@
     "latitude": -4.408554,
     "longitude": 87.918033
   }
-]`
+]
+`

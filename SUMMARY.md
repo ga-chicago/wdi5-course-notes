@@ -59,3 +59,4 @@
   * [Controller Homework](06_Express_Models/ControllerHw.md)
   * [mongodb](06_Express_Models/mongodb.md)
   * [Wednesday Homework](06_Express_Models/WednesdayHomework.md)
+  * [Databases - Relational and Non-Relational](06_Express_Models/databases.md)

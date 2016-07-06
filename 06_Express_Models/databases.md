@@ -2,6 +2,12 @@
 
 > Today we'll talk about relational and non-relational databases
 
+## Resources
+
+These links may help you as read through these notes:
+
+[MongoDB and NoSQL info](https://www.mongodb.com/nosql-explained) - This gives you an overview of what NoSQL is and how MongoDB fits into everything.
+
 ## Relational Data
 
 Relational data can be thought of like Excel spreadsheets. The data is stored in rows and columns. A table is part of database that represents one coherent resource and its properties.

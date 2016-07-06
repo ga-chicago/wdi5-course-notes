@@ -57,3 +57,4 @@
   * [Friday Hw](05_node_week/friday_homework.md)
 * [Week 6: Express](06_Express_Models/expressRouting.md)
   * [Controller Homework](06_Express_Models/ControllerHw.md)
+  * [Databases - Relational and Non-Relational](06_Express_Models/databases.md)

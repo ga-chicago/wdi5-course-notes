@@ -57,3 +57,5 @@
   * [Friday Hw](05_node_week/friday_homework.md)
 * [Week 6: Express](06_Express_Models/expressRouting.md)
   * [Controller Homework](06_Express_Models/ControllerHw.md)
+  * [mongodb](06_Express_Models/mongodb.md)
+  * [Wednesday Homework](06_Express_Models/WednesdayHomework.md)

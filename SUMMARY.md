@@ -61,3 +61,6 @@
   * [Wednesday Homework](06_Express_Models/WednesdayHomework.md)
   * [Databases - Relational and Non-Relational](06_Express_Models/databases.md)
   * [Restful Api](06_Express_Models/RestulApi.md)
+  * [Mongoose Schema](06_Express_Models/mongooseSchema.md)
+  * [Mongoose ](06_Express_Models/mongoose.md)
+  * [Thursday HW](06_Express_Models/thursdayHw.md)

@@ -13,6 +13,7 @@
 * `show dbs`: Print a list of all databases on the server.
 * `use <db>`: Switch current database to <db>. The mongo shell variable db is set to the current database.
 * `show collections`: Print a list of all collections for current database
+* `db.collectionName.find()`: Shows the documents in your collection.
 * `show users`: Print a list of users for current database.
 * `show roles`: Print a list of all roles, both user-defined and built-in, for the current database.
 * `show profile`: Print the five most recent operations that took 1 millisecond or more.

@@ -65,3 +65,4 @@
   * [Mongoose ](06_Express_Models/mongoose.md)
   * [Thursday HW](06_Express_Models/thursdayHw.md)
   * [Project 2](06_Express_Models/Project2.md)
+  * [Project Groups](06_Express_Models/projectGroups.md)

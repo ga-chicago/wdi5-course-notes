@@ -69,3 +69,8 @@
   * [Deployment Heroku](06_Express_Models/deploymentHeroku.md)
 * [Week 8: Ruby and Sinatra MVC](08_ruby_sinatra/monday.md)
   * [Morning Excercise Answers](08_ruby_sinatra/morningExcerciseAnswers.md)
+  * [Methods](08_ruby_sinatra/methods.md)
+  * [Classes](08_ruby_sinatra/classes.md)
+  * [More Class](08_ruby_sinatra/moreClasses.md)
+  * [Inheritance](08_ruby_sinatra/inheritance.md)
+  * [Homework]

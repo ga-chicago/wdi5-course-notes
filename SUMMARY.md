@@ -68,3 +68,4 @@
   * [Project Groups](06_Express_Models/projectGroups.md)
   * [Deployment Heroku](06_Express_Models/deploymentHeroku.md)
 * [Week 8: Ruby and Sinatra MVC](08_ruby_sinatra/monday.md)
+  * [Morning Excercise Answers](08_ruby_sinatra/morningExcerciseAnswers.md)

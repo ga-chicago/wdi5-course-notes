@@ -73,4 +73,6 @@
   * [Classes](08_ruby_sinatra/classes.md)
   * [More Class](08_ruby_sinatra/moreClasses.md)
   * [Inheritance](08_ruby_sinatra/inheritance.md)
-  * [Homework]
+  * [Class Practice](08_ruby_sinatra/classLab.md)
+  * [Object Reps](08_ruby_sinatra/objectReps.md)
+  * [Homework Tuesday](08_ruby_sinatra/homeworkReps.md)

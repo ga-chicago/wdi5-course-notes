@@ -1,4 +1,4 @@
-## ERB
+## ERB in the night
 
 ERB stands for **embedded Ruby**.
 

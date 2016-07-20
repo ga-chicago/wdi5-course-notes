@@ -77,5 +77,5 @@
   * [Object Reps](08_ruby_sinatra/objectReps.md)
   * [Homework Tuesday](08_ruby_sinatra/homeworkReps.md)
   * [First Server](08_ruby_sinatra/firstServer.md)
-  * ![Sinatra Route Map](08_ruby_sinatra/routing.md)
+  * [Sinatra Route Map](08_ruby_sinatra/routing.md)
   * [Erb](08_ruby_sinatra/erb.md)

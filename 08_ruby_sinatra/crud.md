@@ -146,16 +146,4 @@ sms.destroy # delete from database
 
 * Is ActiveRecord awesome?
 * Yes?
-* Ready to use it?
 
-
-
-#### Lab
-
-**Migrations** to **Models**
-
-- We're going to create a students app based on our `dragons` database!
-- We need to connect to our database!
-- We need to create Models for our `Students` table!
-- We need to add items using ActiveRecord!
-- We need to read them via JSON!

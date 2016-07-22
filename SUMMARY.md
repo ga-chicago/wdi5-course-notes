@@ -81,3 +81,5 @@
   * [Sinatra Route Map](08_ruby_sinatra/routing.md)
   * [Erb](08_ruby_sinatra/erb.md)
   * [Server Homework](08_ruby_sinatra/ServerHomework.md)
+  * [MySQL and SQL](08_ruby_sinatra/sql.md)
+  * [ActiveRecord](08_ruby_sinatra/active_record.md)

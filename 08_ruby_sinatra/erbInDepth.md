@@ -6,9 +6,9 @@ Imagine that we have a route that supplies us some information. In our route, we
 get '/darth_vader' do
 
   # let's have some variables
-  name = 'Darth Vader'
-  force_power = 'Force Choke'
-  lightsaber_colour = 'red'
+  @name = 'Darth Vader'
+  @force_power = 'Force Choke'
+  @lightsaber_colour = 'red'
 
   # load a view using ERB
   erb :darth_vader
@@ -20,9 +20,9 @@ When this route is called, `/views/darth_vader.erb` will be rendered. The ERB fi
 
 ```erb
 
-<h1><%= name %></h1>
+<h1><%= @name %></h1>
 
-<p><%= name %> uses his <%= force_power %> to get his job done. He rocks a <%= lightsaber_colour %> lightsaber.</p>
+<p><%= @name %> uses his <%= @force_power %> to get his job done. He rocks a <%= @lightsaber_colour %> lightsaber.</p>
 
 ```
 

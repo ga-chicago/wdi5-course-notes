@@ -81,3 +81,5 @@
   * [Sinatra Route Map](08_ruby_sinatra/routing.md)
   * [Erb](08_ruby_sinatra/erb.md)
   * [Server Homework](08_ruby_sinatra/ServerHomework.md)
+  * [Erb in Depth](08_ruby_sinatra/erbInDepth.md)
+  * [crud](08_ruby_sinatra/crud.md)

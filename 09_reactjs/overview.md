@@ -194,7 +194,7 @@ ReactDOM.render(<Page />, document.getElementById('form-component'));
 
 ## Homework
 
-See the GitBook for tonight's homework.
+See the [Homework repo](https://github.com/ga-chicago/wdi5-homework/tree/master/week9/01_monday_homework) for tonight's homework. It is basically a repetition of this morning's React challenge except this time you'll be doing it all yourself. You'll be given a basic Express app as the starting point and it's up to you to finish it off with React.js components. More details in the homework repository on GitHub or you can `git pull upstream master` from your own copy of the homework repository.
 
 ## More resources
 

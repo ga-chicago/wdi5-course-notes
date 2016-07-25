@@ -83,7 +83,6 @@
   * [Server Homework](08_ruby_sinatra/ServerHomework.md)
   * [Erb in Depth](08_ruby_sinatra/erbInDepth.md)
   * [crud](08_ruby_sinatra/crud.md)
-
   * [MySQL and SQL](08_ruby_sinatra/sql.md)
   * [ActiveRecord](08_ruby_sinatra/active_record.md)
->>>>>>> f457d760bcb835927d4257b1f3118f3fbb85aacb
+

@@ -192,6 +192,10 @@ var Dashboard = React.createClass({
 ReactDOM.render(<Page />, document.getElementById('form-component'));
 ```
 
+## Homework
+
+See the GitBook for tonight's homework.
+
 ## More resources
 
 This week will be full of React lessons. Be sure to check out the [official docs](https://facebook.github.io/react/docs/getting-started.html) to learn even more about React.js

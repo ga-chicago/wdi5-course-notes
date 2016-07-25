@@ -86,3 +86,5 @@
   * [MySQL and SQL](08_ruby_sinatra/sql.md)
   * [ActiveRecord](08_ruby_sinatra/active_record.md)
 
+* [Week 9: Intro to React](09_reactjs/overview.md)
+  *[Monday Homework](08_ruby_sinatra/sinatraHwMonday.md)

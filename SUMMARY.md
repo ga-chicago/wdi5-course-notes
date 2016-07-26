@@ -86,3 +86,4 @@
   * [MySQL and SQL](08_ruby_sinatra/sql.md)
   * [ActiveRecord](08_ruby_sinatra/active_record.md)
 * [Week 9: Intro to React](09_reactjs/overview.md)
+  * [BCrypt in Ruby](09_reactjs/bcrypt.md)

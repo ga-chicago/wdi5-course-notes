@@ -51,7 +51,8 @@ gulp.task('watch', function() {
 This will listen for a file to be saved, then to run the react command.
 As you probably noticed when gulp crashes we have to restart gulp and 
 resave our js file. Lets be lazy and not do that anymore by augmenting our
-`default task`
+`default task` this tells gulp when it starts to run the watch command that listens
+for any file changes, and run the react task.
 
 ```
 

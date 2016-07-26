@@ -8,7 +8,7 @@
   * [Terminal Basics/Navigating the File System](01_basics/basic_terminal.md)
   * [Creating and Moving Files on the Command Line](01_basics/create_move_files_in_terminal.md)
   * [TerminalLabAssignment](01_basics/commandLineLab.md)
-  * [After Hours/Homework](01_basics/ah_star_wars_cli.md) 
+  * [After Hours/Homework](01_basics/ah_star_wars_cli.md)
   * [Git Workflow](01_basics/git_workflow.md)
   * [Re-introduction to HTML and CSS](01_basics/reintroduction_html_css.md)
   * [Extras and Bonus material](01_basics/extras.md)
@@ -86,6 +86,5 @@
   * [MySQL and SQL](08_ruby_sinatra/sql.md)
   * [ActiveRecord](08_ruby_sinatra/active_record.md)
 * [Week 9: Intro to React](09_reactjs/overview.md)
-  *[Monday Homework](08_ruby_sinatra/sinatraHwMonday.md)
-  *[React Gulp](09_reactjs/reactGulp.md)
-
+  * [Monday Homework](08_ruby_sinatra/sinatraHwMonday.md)
+  * [React Gulp](09_reactjs/reactGulp.md)

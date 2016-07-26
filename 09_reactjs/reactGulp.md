@@ -11,7 +11,7 @@ lets install
 5. npm install babel-preset-react --save-dev
 6. npm install babel-preset-es2015 --save-dev
 
-### Then lets go to our gulp file and require the dependencies we need on top
+## Then lets go to our gulp file and require the dependencies we need on top
 ```
 var browserify = require('browserify'),
     babelify   = require('babelify'),
@@ -38,13 +38,14 @@ file we our creating that contains our converted react code in the app.js file a
 it `build.js`.  We our then sending it to our public/js folder.
 
 
-### Now we need to add React to our watch task 
+## Now we need to add React to our watch task 
 
 ```
 gulp.task('watch', function() {
   gulp.watch(['./src/public/less/**/*.less'], ['less']);
   gulp.watch(['./clientReact/*.js'], ['react'])
 });
+
 ```
 
 This will listen for a file to be saved, then to run the react command.
@@ -53,11 +54,13 @@ resave our js file. Lets be lazy and not do that anymore by augmenting our
 `default task`
 
 ```
+
 gulp.task('default', ['watch', 'react']);
+
 ```
 
 
-### Now we need to make sure our app.js is setup properly
+## Now we need to make sure our app.js is setup properly
 
 our file should look like this
 

@@ -90,4 +90,5 @@
   * [Monday Homework](08_ruby_sinatra/sinatraHwMonday.md)
   * [React Gulp](09_reactjs/reactGulp.md)
   * [RESTful APIs](09_reactjs/restful_apis.md)
+  * [Wednesday Homework](09_reactjs/wed_hw.md)
 
